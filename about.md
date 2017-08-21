@@ -4,9 +4,9 @@ layout: page
 ---
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
-<p>I am a passionate IT engineer who loves to automate things and processes. I've been learning and using ITIL and DevOps best practices to deliver a joy and peace to customers.</p>
+<p>I am a passionate IT engineer. I love to automate things and processes. I've been learning and using ITIL and DevOps best practices to deliver a joy and peace to customers.</p>
 
-<h2>Skills and Tools</h2>
+<h2>Skills</h2>
 
 <ul class="skill-list">
     <li>Azure as IaaS</li>
