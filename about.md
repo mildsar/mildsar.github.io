@@ -6,7 +6,3 @@ layout: page
 
 <p>I am a passionate IT engineer. Love to automate things and processes. In the sad world of failed deployments, I've been using ITIL and DevOps best practices to deliver a joy and peace to customers.
 </p>
-
-<p>
-Also, I'm a loyal Minnesota Timberwolves fan, mobile photographer, and home musician. I sing English, Italian and Russian songs.
-</p>
