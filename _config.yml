@@ -39,7 +39,7 @@ disqus:
 # google: mygoogle
 instagram: minimuz
 # pinterest: mypinterest
-#linkedin: maximkhon
+linkedin: maximkhon
 # youtube: myyoutube
 # spotify: myspotify
 github: mildsar
@@ -89,7 +89,7 @@ related: true
 post-advance-links: [blog]
 
 # show author block at the end of a post ?
-#show-author: true
+show-author: true
 
 # do you want some animations?
 animation: true
