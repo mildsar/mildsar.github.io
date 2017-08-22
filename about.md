@@ -4,10 +4,9 @@ layout: page
 ---
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
-<p>I am a passionate IT engineer. I love to automate things and processes. In the sad world of failed deployments and not working systems, I've been learning and using ITIL and DevOps best practices to deliver a joy and peace to customers.</p>
+<p>I am a passionate IT engineer. I love to automate things and processes. In the sad world of failed deployments and not working systems, I've been using ITIL and DevOps best practices to deliver a joy and peace to customers.</p>
 
-<h2>Technology</h2>
-
+<h2>Technology:</h2>
 <ul class="skill-list">
     <li>Azure as IaaS</li>
     <li>Azure RM</li>
@@ -21,8 +20,7 @@ layout: page
     <li>Git</li>
 </ul>
 
-<h2>Methodology</h2>
-
+<h2>Methodology:</h2>
 <ul class="methods-list">    
     <li>Scrum</li>
     <li>Continuous Integration</li>
