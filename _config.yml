@@ -16,7 +16,7 @@ resume: true
 resume-external: true
 resume-url: http://linkedin.com/in/maximkhon/
 
-url: https://mildsar.github.com/
+url: https://mildsar.github.io/
 # your url: http://USERNAME.github.io
 
 permalink: /:title/
@@ -101,4 +101,4 @@ plugins:
   - jemoji
 
 jekyll-mentions:
-    base_url: https://github.com/mildsar/mildsar.github.io
+    base_url: https://github.io/mildsar/mildsar.github.io
