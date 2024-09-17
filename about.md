@@ -8,5 +8,5 @@ layout: page
 </p>
 
 <p>
-I’m a dedicated Minnesota Timberwolves fan and an avid photographer. I enjoy playing the guitar and love singing in four languages: English, Italian, German, and Russian.
+I’m a dedicated Minnesota Timberwolves fan, passionate about basketball analytics, and I enjoy writing articles about the team. I find peace in street photography, love playing guitar, and enjoy singing in four languages: English, Italian, German, and Russian.
 </p>
